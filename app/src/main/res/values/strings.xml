@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Numero_magico</string>
+    <string name="Title_main">Número mágico</string>
+    <string name="Registrar_dificultad">Aceptar</string>
+    <string name="text_dificultad">Seleccione la dificultad</string>
+    <string name="txt_intentos" />
+    <string name="btn_verificar">Verificar</string>
+    <string name="txt_registro">Registro</string>
+    <string name="btn_reset">Reset</string>
+    <string name="edt_numero">Ingrese un numero del 0 al 100.</string>
+    <string-array name="Spinner_dificultad">
+        <item>1.Facil - 10</item>
+        <item>2.Medio - 7</item>
+        <item>3.Dificil - 5</item>
+    </string-array>
+
+</resources>
